@@ -1,10 +1,12 @@
-# UE20CS352 - Object Oriented Analysis and Design using Java.
+# The Knowledge Hub: Connecting Students with Top Educators
 
-## The Knowledge Hub: Connecting Students with Top Educators
-
+## Team Details:
 TEAM ID: 10
+
 PES2UG20CS002: A Mohan Kumar
+
 PES2UG20CS014: Abishek S
+
 PES2UG20CS019: Adithya Mathialagan
 
 ## Introduction
