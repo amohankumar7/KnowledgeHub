@@ -22,5 +22,5 @@ This is a JAVA based web application designed to address the needs of students w
 - Grading system: Automatic evaluation of the quiz for students on submission.
 
 ## Technologies Used
-HTML, CSS ,JAVA , Springboot and MySQL.
+HTML, CSS ,JAVA ,Spring Boot and MySQL.
 
